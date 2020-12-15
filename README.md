@@ -28,6 +28,6 @@
 关于软件内容的更新可以关注我的微博[LW_Roy][weibo]，或者点击该[链接][qr]加入微信群。
 
 [app-store]: https://apps.apple.com/cn/app/id1533400180
-[image-demo]: https://github.com/LWRoy/awesome-anchorwidgets/blob/main/image-demo.png
+[image-demo]: image-demo.png
 [weibo]: https://weibo.com/u/2278137864
 [qr]: http://cdn.geofftools.cn/images/anchorwidget-wechat.jpg
